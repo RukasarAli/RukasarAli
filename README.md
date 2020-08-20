@@ -1,16 +1,10 @@
-### Hi there 👋
+### Hi , I am Rukasar Ali .👋
 
-<!--
-**RukasarAli/RukasarAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Hexaa Infocom Website
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Bootsrap
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Hexaa Infocom- Website](www.hexaainfocom.com)
+- 🌱 I’m currently learning _PHP Data Objects_
+- 👯 I’m looking to collaborate on _Technical Analysis & DBA_
+- 🤔 I’m looking for help with _Mobile View_ :iphone:
+- 💬 Ask me about _Bootsrap_
+- 📫 How to reach me: [linkedin- Rukasar Anjum Ali](https://www.linkedin.com/in/its-rrali)
+- 😄 Pronouns: :rose: :crown:
+- ⚡ Fun fact: Survived 2020
